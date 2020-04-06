@@ -4,7 +4,7 @@
 	"license": "MIT",
 	"require": {
 		"greenpeace/planet4-plugin-gutenberg-blocks" : "dev-master",
-		"greenpeace/planet4-plugin-gutenberg-engagingnetworks" : "dev-master"
+		"greenpeace/planet4-plugin-gutenberg-engagingnetworks" : "dev-PLANET-4846"
 	},
 	"data_from": "international",
 	"scripts": {
