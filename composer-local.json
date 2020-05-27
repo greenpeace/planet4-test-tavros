@@ -3,6 +3,8 @@
 	"description": "Greenpeace P4 test-tavros",
 	"license": "MIT",
 	"require": {
+		"greenpeace/planet4-master-theme" : "dev-planet-2209",
+		"wpackagist-plugin/debug-bar":"1.*",
 		"greenpeace/planet4-plugin-gutenberg-blocks" : "dev-master",
 		"greenpeace/planet4-plugin-gutenberg-engagingnetworks" : "dev-master"
 	},
