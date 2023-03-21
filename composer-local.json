@@ -3,7 +3,7 @@
 	"description": "Greenpeace P4 test-tavros",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-master-theme": "dev-main",
+		"greenpeace/planet4-master-theme": "dev-PLANET-6990-body-copy-links",
 		"greenpeace/planet4-plugin-gutenberg-blocks": "7"
 	},
 	"data_from": "international",
