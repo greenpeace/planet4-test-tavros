@@ -4,6 +4,22 @@
 	"license": "MIT",
 	"require": {
 		"greenpeace/planet4-master-theme": "dev-PLANET-7521_migrate-media-block-to-audio-video-blocks",
-		"greenpeace/planet4-plugin-gutenberg-blocks": "dev-PLANET-7521_remove-media-block"
-	}
+		"greenpeace/planet4-plugin-gutenberg-blocks": "7"
+	},
+	"repositories": [
+		{
+			"type": "package",
+			"package": {
+				"name": "greenpeace/planet4-plugin-gutenberg-blocks",
+				"type": "wordpress-plugin",
+				"autoload": null,
+				"extra": null,
+				"version": 7,
+				"dist": {
+					"type": "zip",
+					"url": "https://storage.googleapis.com/planet4-packages/planet4-plugin-gutenberg-blocks/66c83dfbe983c4b32e8f806db3e9a18e084cf5ce.zip"
+				}
+			}
+		}
+	]
 }
