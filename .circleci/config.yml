@@ -48,6 +48,7 @@ job_environments:
     HELM_RELEASE: planet4-test-tavros
     WP_DB_NAME: planet4-testtavr_wordpress_develop
     WP_STATELESS_BUCKET: planet4-test-tavros-stateless-develop
+    MIN_REPLICA_COUNT: 2
 
 
 commands:
