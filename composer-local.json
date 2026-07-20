@@ -3,29 +3,9 @@
 	"description": "Greenpeace P4 test-tavros",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-master-theme": "7"
+		"greenpeace/planet4-master-theme": "dev-main"
 	},
 	"extra": {
 		"wp-version": "7.0"
-	},
-	"repositories": [
-		{
-			"type": "package",
-			"package": {
-				"name": "greenpeace/planet4-master-theme",
-				"type": "wordpress-theme",
-				"autoload": {
-					"psr-4": {
-						"P4\\MasterTheme\\": "src/"
-					}
-				},
-				"extra": null,
-				"version": 7,
-				"dist": {
-					"type": "zip",
-					"url": "https://storage.googleapis.com/planet4-packages/planet4-master-theme/6ad499407e99a29ada1c1237685e0c9f4fabcb46.zip"
-				}
-			}
-		}
-	]
+	}
 }
